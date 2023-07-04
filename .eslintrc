@@ -9,6 +9,7 @@
     "jest": true,
     "es6" : true
   },
+  
   "parserOptions": {
     "parser": "@typescript-eslint/parser",
     "sourceType": "module"

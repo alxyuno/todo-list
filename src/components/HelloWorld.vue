@@ -16,7 +16,7 @@ const count = ref(0);
     >
       count is {{ count }}
     </button>
-    <p>
+    <p class="text-3xl">
       Edit
       <code>components/HelloWorld.vue</code> to test HMR
     </p>
